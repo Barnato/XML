@@ -20,7 +20,7 @@
             </step>
         </steps>
         <result>You are now ready to calculate with the app.</result>
-        <postreq>For example, if you have purchased a book for 5$ and you have given 12$, how much
-            change should you expect? Answer is 18-10=8 $ change.</postreq>
+        <postreq>For example, if you have purchased a book for 10$ and you have given 20$, how much
+            change should you expect? Answer is 20-10=10 $ change.</postreq>
     </taskbody>
 </task>
