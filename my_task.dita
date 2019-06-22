@@ -19,8 +19,8 @@
                 <cmd>The application starts.</cmd>
             </step>
         </steps>
-        <result>You are now ready to calculate with it.</result>
-        <postreq>For example, if you have purchase a book for 5$ and you have given 12$, how much
-            change should you expect? Answer is 12-5=7 $ change.</postreq>
+        <result>You are now ready to calculate with the app.</result>
+        <postreq>For example, if you have purchased a book for 5$ and you have given 12$, how much
+            change should you expect? Answer is 18-10=8 $ change.</postreq>
     </taskbody>
 </task>
