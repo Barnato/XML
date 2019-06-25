@@ -2,7 +2,7 @@
 <concept id="concept_1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
     <title>Concept 1</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Calulcator apps are used by people who need to make calculations quickly.</shortdesc>
     <conbody>
         <p></p>
     </conbody>
