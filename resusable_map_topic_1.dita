@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="resusable_map_topic_1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Resusable Map Topic 1</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Here is my first feature.<ol id="ol_tq4_vnz_23b">
+                <li>Feature 1.</li>
+                <li>Feature 2.</li>
+            </ol></p>
+   
+    </conbody>
+</concept>

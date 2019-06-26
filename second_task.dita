@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="second_task">
     <title>Second_Task</title>
-    <shortdesc></shortdesc>
+    <shortdesc>About this task.</shortdesc>
     <taskbody>
         <context>
             <p></p>

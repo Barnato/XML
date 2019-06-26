@@ -2,8 +2,9 @@
 <concept id="concept_1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
     <title>Concept_1</title>
-    <shortdesc></shortdesc>
+    <shortdesc>This is a concept about X.</shortdesc>
     <conbody>
-        <p></p>
+        <p>This is the explanation of the concept X.</p>
+        <example>Example</example>
     </conbody>
 </concept>
