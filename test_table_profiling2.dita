@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="test_table_profiling">
+    <title>Test Table Profiling</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>
+                <table frame="all" rowsep="1" colsep="1" id="table_iw4_zfc_g3b" audience="expert">
+                    <title>Table Profiled Expert</title>
+                    <tgroup cols="2" audience="expert">
+                        <colspec colname="c1" colnum="1" colwidth="1*"/>
+                        <colspec colname="c2" colnum="2" colwidth="1*"/>
+                        <thead>
+                            <row>
+                                <entry/>
+                                <entry/>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+            <table frame="all" rowsep="1" colsep="1" id="table_crf_dgc_g3b">
+                <title>Table Element Profiled</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row audience="expert">
+                            <entry>Table expert</entry>
+                            <entry/>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row audience="novice">
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row audience="novice">
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row audience="novice">
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

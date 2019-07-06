@@ -2,10 +2,30 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="third_task">
     <title>Third_Task</title>
-    <shortdesc>About this task:</shortdesc>
+    <shortdesc id="shortdesc_lp5_xxz_23b">About this task:</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>
+                <table frame="all" rowsep="1" colsep="1" id="table_cws_j3w_f3b">
+                    <title>Tables</title>
+                    <tgroup cols="2">
+                        <colspec colname="c1" colnum="1" colwidth="1*"/>
+                        <colspec colname="c2" colnum="2" colwidth="1*"/>
+                        <thead>
+                            <row>
+                                <entry/>
+                                <entry/>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry/>
+                                <entry/>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
         </context>
         <steps>
             <step>

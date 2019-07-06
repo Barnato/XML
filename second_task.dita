@@ -5,7 +5,8 @@
     <shortdesc>About this task.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p audience="expert">This task is for a novice user.</p>
+            <p audience="novice">This task is for an expert user.</p>
         </context>
         <steps>
             <step>
