@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="delete_a_twitter_post">
+    <title>Delete a Twitter Post</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+      
+      
+                <context conref="delete_a_post.dita#delete_a_post/context_qpj_yv1_33b"
+            id="context_cys_1w1_33b"/>
+         
+    </taskbody>
+</task>

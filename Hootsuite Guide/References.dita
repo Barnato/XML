@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ch3_mx1_33b">
+    <title>References</title>
+    <shortdesc>Here you will find short description of all the terminology used in all
+        documents.</shortdesc>
+    <conbody>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_wqt_mx1_33b">
+                <title/>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Terms</entry>
+                            <entry>Definitions</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Channel</entry>
+                            <entry>Platforms for posting multi media content to.</entry>
+                        </row>
+                        <row>
+                            <entry>Post</entry>
+                            <entry>A social media entity.</entry>
+                        </row>
+                        <row>
+                            <entry>Twitter</entry>
+                            <entry>A popular social media platform. Character limit.</entry>
+                        </row>
+                        <row>
+                            <entry>Facebook</entry>
+                            <entry>A popular social media platform.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </conbody>
+</concept>

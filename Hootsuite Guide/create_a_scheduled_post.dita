@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_a_scheduled_post">
+    <title>Create a Scheduled Facebook Post</title>
+    <shortdesc>Knowing how to schedule Facebook posts helps you save time creating individual posts,
+        provide consistent content for your followers, and connect and engage with more
+        people.</shortdesc>
+    <taskbody>
+        <context>This function supports social media marketers constantly trying to keep up with
+                <xref
+                href="https://blog.hootsuite.com/how-to-create-a-social-media-content-calendar/"
+                format="html" scope="external">posting schedules</xref>. <p/></context>
+        <steps>
+            <step>
+                <cmd>Go to the top of your Facebook page’s timeline. There you will see the box
+                    where you can create a post.</cmd>
+            </step>
+            <step>
+                <cmd>Once you’ve created a post, go to the drop down button next to Publish and
+                    select  Schedule. That will bring you to a window that’ll allow you to select a
+                    time you want your post to go up.</cmd>
+            </step>
+            <step>
+                <cmd>Now select the date and time you want your Facebook post to post.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

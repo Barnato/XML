@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_a_post_on_multiple_channels">
+    <title>Create a Post on Multiple Channels</title>
+    <shortdesc>Cross-posting is the act of sharing the exact same post across different social media
+        platforms, or on the same account multiple times. </shortdesc>
+    <taskbody>
+        <context>This function supports social media marketers constantly trying to keep up with
+            <xref
+                href="https://blog.hootsuite.com/how-to-create-a-social-media-content-calendar/"
+                format="html" scope="external">posting schedules</xref>. <p/></context>
+        <steps>
+            <step>
+                <cmd>Click New Post in the top-right corner of the dashboard. In the Post to Field
+                    select Twitter, Facebook and Instagram, one after the other.</cmd>
+            </step>
+            <step>
+                <cmd>Once you’ve created the post, go to the drop down button next to Publish and
+                    select Schedule. That will bring you to a window that’ll allow you to select a
+                    time you want your post to go up.</cmd>
+            </step>
+            <step>
+                <cmd>Now select the date and time you want your post to post.</cmd>
+            </step>
+            <step>
+                <cmd>Click Done.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

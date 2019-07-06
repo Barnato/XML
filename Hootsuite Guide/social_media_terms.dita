@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="social_media_terms">
+    <title>Social Media Terms</title>
+    <shortdesc></shortdesc>
+    <conbody>
+    
+        <section id="section_plw_j31_33b">
+            <title>Abandonment rate</title>
+            <p>The percentage of social customer service issues that customers abandon before they
+                are resolved.</p>
+        </section>
+        <section id="section_yxl_m31_33b">
+            <title><b>Bitmoji</b></title>
+            <p>Customized avatars that can be added to Gmail, Messenger, Slack, and social media
+                networks. <xref href="https://www.bitmoji.com/" format="html" scope="external"
+                    >Bitmoji</xref>lets you create an animated representation of yourself then
+                offers a variety of versions of it in different situations that you can share with
+                an app or smartphone keyboard extension.</p>
+        </section>
+        <section id="section_lmw_431_33b">
+            <title><b>Chatbot</b></title>
+            <p>A type of bot that live in messaging apps (such as Facebook Messenger) and use
+                artificial intelligence to perform tasks via simulated conversation. A chatbot can
+                be used for customer service, data collection, and more. Facebook is one of the
+                leaders in chatbot integration.</p>
+        </section>
+        <section id="section_qwj_r31_33b">
+            <title><b>Direct message</b></title>
+            <p>A private Twitter message. Direct messages can be sent only to Twitter users who are
+                already following you—and you can receive direct messages only from users you follow
+                unless you have opted into receiving direct messages from anyone in your user
+                settings.</p>
+        </section>
+        <section id="section_brw_s31_33b">
+            <title><b>Ephemeral content</b></title>
+            <p>Learn more: <xref
+                    href="https://blog.hootsuite.com/snapchat-instagram-facebook-stories/"
+                    format="html" scope="external">Snapchat, Instagram Stories, or Facebook
+                    Stories—Which is Right For You?</xref></p>
+        </section>
+        <section id="section_ofx_531_33b">
+            <title><b>Facebook</b></title>
+            <p>Launched in 2004, a social media platform that evolved from Facemash, Mark
+                Zuckerberg’s website that allows Harvard students to rate the attractiveness of
+                their peers. Facebook was originally limited to university students but went global
+                in the years to come, taking over the world with pokes, likes, posts, and
+                comments.</p>
+        </section>
+        <section id="section_dgz_w31_33b">
+            <title><b>Geotagging</b></title>
+            <p>Adding a specific location to a photo, video, or social media message. The ubiquity
+                of GPS-enabled smartphones has made geotagging a core aspect of social media.</p>
+        </section>
+    </conbody>
+</concept>
