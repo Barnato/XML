@@ -3,8 +3,53 @@
 <reference id="reference_1">
     <title>Reference_1</title>
     <shortdesc>Short Description:</shortdesc>
-    <refbody><section>
-        <title>Reference info 1</title>
-        <p></p>
-    </section></refbody>
+    <refbody><section id="section_z1j_pdw_f3b">
+            <title>Reference info 1</title>
+        </section>
+        <table frame="all" rowsep="1" colsep="1" id="table_jrj_pdw_f3b">
+            <title>Table 1</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row id="first_row">
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row id="last_row">
+                        <entry/>
+                        <entry/>
+                    </row>    
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <section id="section_abj_pdw_f3b">
+            <p/>
+        </section>
+        <section id="section_xxq_5cw_f3b">
+            <title/>
+            <p/>
+        </section></refbody>
 </reference>

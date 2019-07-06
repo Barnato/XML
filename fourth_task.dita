@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="fourth_task">
-    <title>Fourth_Task</title>
+    <title audience="novice">Fourth_Task</title>
     <shortdesc></shortdesc>
     <taskbody>
         <context>

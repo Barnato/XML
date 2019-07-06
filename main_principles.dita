@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="main_principles">
+    <title>Main Principles</title>
+    <shortdesc>This is an image.</shortdesc>
+    <conbody>
+        <p>
+            <imagemap id="imagemap_lqg_f3z_h3b">
+                <image href="board.jpg" id="image_y2v_23z_h3b"/>
+                <area>
+                    <shape>rect</shape>
+                    <coords>50, 14, 485, 100</coords>
+                    <xref href="principle_2.dita" format="dita">This leads to principle 2</xref>
+                </area>
+            </imagemap>
+        </p>
+    </conbody>
+</concept>

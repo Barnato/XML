@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/victoriabarnato/Desktop/XML/temp/topic-pdf/oxygen_dita_temp?><?workdir-uri file:/Users/victoriabarnato/Desktop/XML/temp/topic-pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="test_table_profiling" xtrc="task:1;3:33" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">Test Table Profiling</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+                
+            </p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_crf_dgc_g3b" rowsep="1" xtrc="table:2;37:77" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+                <title class="- topic/title " xtrc="title:3;38:24" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">Table Element Profiled</title>
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:2;39:34" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:3;40:69" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:4;41:69" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:2;42:28" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+                        
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:2;48:28" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+                        <row audience="novice" class="- topic/row " xtrc="row:6;49:48" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:11;50:37" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:12;51:37" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+                        </row>
+                        <row audience="novice" class="- topic/row " xtrc="row:7;53:48" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:13;54:37" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:14;55:37" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+                        </row>
+                        <row audience="novice" class="- topic/row " xtrc="row:8;57:48" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:15;58:37" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:16;59:37" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;65:16" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+            <step class="- topic/li task/step " xtrc="step:1;66:19" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;67:22" xtrf="file:/Users/victoriabarnato/Desktop/XML/test_table_profiling2.dita"/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

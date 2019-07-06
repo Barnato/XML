@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="table_testing_profiling">
+    <title>Table Testing Profiling</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+            <table frame="all" id="table_pcz_hjc_g3b">
+                <title audience="expert">Whole Table Expert</title>
+                <tgroup cols="1" audience="expert">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry/>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table frame="all" id="table_iww_3jc_g3b">
+                <title audience="novice">Whole Table Novice</title>
+                <tgroup cols="1" audience="novice">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry/>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table frame="all" id="table_mvz_jjc_g3b">
+                <title>Element Profiled</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row audience="novice">
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
