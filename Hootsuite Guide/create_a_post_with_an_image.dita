@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_a_post_with_an_image">
+    <title>Create a Post with an Image</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        
+            <steps>
+            <step>
+                <cmd>In the Post to Field select Twitter, Facebook and Instagram, one after the
+                    other.</cmd>
+            </step>
+            <step>
+                <cmd>Click Open Media Library to search free stock images or GIFs to include in your
+                    post or drop files into the Media box or click, select a file to upload to attach
+                    images or a video to your post.</cmd>
+            </step>
+            <step>
+                <cmd>Click Done.</cmd>
+            </step>
+            </steps>
+    </taskbody>
+</task>

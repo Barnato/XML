@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="delete_a_post">
+    <title>Delete a Facebook Post</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context conref="delete_post#ReusableComponent_zgj_yv1_33b/context_ahj_yv1_33b"
+            id="context_qpj_yv1_33b"/>
+    </taskbody>
+</task>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    <topicref href="social_media_terms.dita"/>
+    <topicref href="create_a_post_0.dita"/>
+    <topicref href="create_a_scheduled_post.dita"/>
+    <topicref href="create_a_post_on_multiple_channels.dita"/>
+    <topicref href="create_a_post_with_an_image.dita"/>
+    <topicref href="delete_a_post.dita"/>
+    <topicref href="delete_a_twitter_post.dita"/>
+    <topicref href="References.dita"/>
+</map>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_a_post_0">
+    <title>Create a Post</title>
+    <shortdesc> A full-screen composer displays a preview of your post on each social network while
+        you’re crafting it.</shortdesc>
+    <taskbody>
+        <context>The Composer displays a preview of your post on each social network while you’re
+            crafting it.</context>
+        <steps>
+            <step>
+                <cmd>Click New Post in the top-right corner of the dashboard.</cmd>
+            </step>
+            <step>
+                <cmd>Once the composer is open, click Minimize.png at any time to visit other areas
+                    of the dashboard and resume your post later.</cmd>
+            </step>
+            <step>
+                <cmd>If you're looking for the legacy composer, it can be found in the New Post drop-down menu. Click the green arrow, and then select Open Legacy Composer.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
